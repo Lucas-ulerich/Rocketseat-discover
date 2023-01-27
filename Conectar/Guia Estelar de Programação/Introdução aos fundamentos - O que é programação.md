@@ -3,7 +3,7 @@
 Programar é entender de *algoritmos* entender o problema a ser resolvido, e esses *algoritmos* é um passo a passo para resolver um determinado **problema**, ela é uma sequencia lógica.
 
 
-![clipboard](https://github.com/Lucas-ulerich/Rocketseat-discover/blob/main/Assets/Homemprogramando.png)
+![clipboard](https://github.com/Lucas-ulerich/Rocketseat-discover/blob/main/Assets/Homem%20programando.png)
 
 ## E o que é lógica de programação?
 
