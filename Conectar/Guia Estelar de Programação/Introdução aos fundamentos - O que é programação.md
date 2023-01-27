@@ -3,7 +3,7 @@
 Programar é entender de *algoritmos* entender o problema a ser resolvido, e esses *algoritmos* é um passo a passo para resolver um determinado **problema**, ela é uma sequencia lógica.
 
 
-![[https://github.com/Lucas-ulerich/Rocketseat-discover/blob/main/Assets/Homem%20programando.png]]
+![clipboard](https://github.com/Lucas-ulerich/Rocketseat-discover/blob/main/Assets/Homemprogramando.png)
 
 ## E o que é lógica de programação?
 
@@ -52,6 +52,6 @@ Os tipos de dados que mexemos nessa recita são:
 
 E temos que manipular esses dados, que seria o modo de preparo, temos que pegar todos esses dados e transforma-lo em algo, que no exemplo é o bolo pronto.
 
-![[Algoritmo.jpg]]
+![[../Assets/Algoritmo.jpg]]
 
 O grande lance de programar é resolver **problemas**, a chave é entender o **problema**. Não vamos conseguir nada se não conseguirmos entender o **problema**. Não vamos construir um bom algoritmo que funcione se não entendermos o **problema**. 
